@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+venv312/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+*.db
+*.sqlite3
+instance/
+.pytest_cache/
+
+# Node / React
+node_modules/
+dist/
+.DS_Store
+*.local
+coverage/
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.production
