@@ -150,11 +150,11 @@ python data/seed_data.py
 python app.py
 ```
 
-Backend runs at: **http://localhost:5000**
+Backend runs at: **http://127.0.0.1:5000**
 
 ---
 
-### 3️⃣ Frontend Setup
+### 3️⃣ Frontend Setup (Dev Mode)
 
 Open a **new terminal** in VS Code:
 
@@ -169,6 +169,39 @@ npm run dev
 ```
 
 Frontend runs at: **http://localhost:5173**
+
+---
+
+## ✅ Quick Start (Single Server)
+
+Build the frontend and let Flask serve it from port 5000:
+
+```bash
+cd backend
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python data/seed_data.py
+
+cd ..\frontend
+npm install
+npm run build
+
+cd ..\backend
+python app.py
+```
+
+Open: **http://127.0.0.1:5000**
+
+---
+
+## 📸 Screenshots
+
+> Replace the placeholder images in `docs/screenshots/` with your real UI screenshots.
+
+![Home](docs/screenshots/home.svg)
+![Products](docs/screenshots/products.svg)
+![Product Detail](docs/screenshots/product-detail.svg)
 
 ---
 
