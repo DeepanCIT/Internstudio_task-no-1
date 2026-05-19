@@ -294,7 +294,8 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 Deepan — B.E. Computer Science & Engineering
+AI & ML DEVELOPER
 
 ---
 
-*Built for academic final year project submission*
+
