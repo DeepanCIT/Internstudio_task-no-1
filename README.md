@@ -293,7 +293,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Deepan — B.E. Computer Science & Engineering
+Deepan — B.E. Computer Science & Engineering,
 AI & ML DEVELOPER
 
 ---
