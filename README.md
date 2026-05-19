@@ -277,6 +277,7 @@ cp .env.example backend/.env
 - ✅ Similar products on detail page
 - ✅ Trending & New Arrivals sections
 - ✅ Models retrain on new ratings/purchases
+- ✅ Product images seeded with curated URLs (see backend/data/seed_data.py)
 
 ---
 
