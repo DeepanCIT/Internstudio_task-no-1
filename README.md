@@ -1,6 +1,6 @@
 # 🛍️ ShopSmart — AI-Powered E-Commerce Recommendation Engine
 
-> A full-stack personalized product recommendation system combining **Collaborative Filtering**, **Content-Based Filtering**, and a **Hybrid Engine** — built with Flask + React.
+> AN AI personalized product recommendation system combining **Collaborative Filtering**, **Content-Based Filtering**, and a **Hybrid Engine** — built with Flask + React.
 
 ---
 
