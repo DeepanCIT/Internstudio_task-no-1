@@ -197,11 +197,10 @@ Open: **http://127.0.0.1:5000**
 
 ## 📸 Screenshots
 
-> Replace the placeholder images in `docs/screenshots/` with your real UI screenshots.
-
-![Home](docs/screenshots/home.svg)
-![Products](docs/screenshots/products.svg)
-![Product Detail](docs/screenshots/product-detail.svg)
+![Home](docs/screenshots/home.png)
+![Products](docs/screenshots/products.png)
+![Product Detail](docs/screenshots/product-detail%201.png)
+![Product Detail - Alternate](docs/screenshots/product-detail%202.png)
 
 ---
 

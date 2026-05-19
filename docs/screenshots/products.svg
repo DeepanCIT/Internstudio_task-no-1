@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
-  <rect width="1200" height="675" fill="#f8fafc" />
-  <rect x="60" y="60" width="1080" height="120" rx="20" fill="#e2e8f0" />
-  <rect x="60" y="210" width="1080" height="400" rx="28" fill="#fde68a" />
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="28" fill="#0f172a" font-weight="700">ShopSmart - Products</text>
-  <text x="100" y="270" font-family="Arial, sans-serif" font-size="32" fill="#78350f" font-weight="700">Product Grid</text>
-  <text x="100" y="315" font-family="Arial, sans-serif" font-size="18" fill="#78350f">Placeholder screenshot</text>
-</svg>
